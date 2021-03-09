@@ -1,12 +1,12 @@
-# DYNU-UPDATE-SCRIPT
-
 ![DNS-ICON](https://itigic.com/wp-content/uploads/2019/12/dns.jpg)
+
+# DYNU-UPDATE-SCRIPT
 
 Update your dynu DNS records. It supports IPv4 and IPv6.
 
 ## Clone the repository
 
--git clone https://github.com/koko004/dynu-update-script && cd dynu-update-script && chmod 700 update.sh
+- git clone https://github.com/koko004/dynu-update-script && cd dynu-update-script && chmod 700 update.sh
 
 - Edit the credentials.conf
 
