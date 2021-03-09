@@ -1,3 +1,6 @@
+
+![DNS-ICON](https://itigic.com/wp-content/uploads/2019/12/dns.jpg)
+
 Update your dynu DNS records. It supports IPv4 and IPv6.
 Stepts:
 - Clone the repository
